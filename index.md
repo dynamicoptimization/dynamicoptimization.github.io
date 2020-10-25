@@ -1,4 +1,4 @@
-# website
+# "Evolutionary Dynamic Optimisation for Network Problems" Project Website
 
 ## Welcome to GitHub Pages
 
