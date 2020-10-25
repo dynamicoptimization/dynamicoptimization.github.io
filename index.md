@@ -1,6 +1,13 @@
-# "Evolutionary Dynamic Optimisation for Network Problems" Project Website
+## About the Project
 
-## Welcome to GitHub Pages
+### Project Introduction
+Since most of the network optimisation problems (NOPs) are NP-hard, classical exact algorithms suffer from high computational costs and cannot deal with large problems efficiently. As a result, heuristic or metaheuristic algorithms, such as evolutionary algorithms (EAs), are often used to solve NOPs in practice. Most research and applications in NOPs so far have assumed static or quasi-static conditions, where both the network environments and the optimisation problems are known in advance and remain unchanged in the problem-solving process. However, most NOPs in the
+real world are subject to dynamic environments, where the network topologies, availability of resources, user requirements, etc. change with time and are not known a priori. To satisfactorily address real-world NOPs, we cannot ignore the inherent dynamics. We need to consider NOPs under continuously changing network environments, i.e., to model dynamic NOPs (DNOPs). A DNOP is much harder than its static version since the dynamics in the network environment and the problem itself bring in many additional difficulties. To successfully solve a DNOP, a series of
+high-quality solutions should be provided over time instead of a one-off solution as in the static environment. In recent years, there has been a rapidly growing interest in studying EAs for dynamic optimisation problems (DOPs), where the objective function, decision variables, and
+environmental parameters may change over time. However, there is no systematic research on EC methods for DNOPs in different network environments. It is still unknown, either theoretically or computationally, what makes an EA effective and efficient for what types of dynamics. It is still unclear how different dynamics can be modelled and characterised in order to gain a deeper understanding of DNOPs. The unique features of DNOPs in practice, as opposed to the artificial benchmark functions, are yet to be fully revealed. This proposal aims to fill in the gaps mentioned above, develop advanced EC methods for DNOPs, and further our understanding of why and how EC methods can solve DNOPs effectively and efficiently, through computational, theoretical and applied studies. In this proposal, we will mainly take logistics networks as examples of DNOPs, although the proposed research is more generic and has the potential to have a far-reaching impact on a wide range of applications in different network environments.
+
+### Project Investigators
+
 
 You can use the [editor on GitHub](https://github.com/dynamicoptimization/dynamicoptimization.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
